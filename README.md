@@ -3,7 +3,7 @@ Repository containing all the data science project that i have worked on. These 
 
 feel free to connect : [here](https://www.linkedin.com/in/shaili-patel-376663190/)
 
-link to my website: [here](https://sites.google.com/view/analyticszone/home)
+link to my website: [here](https://sites.google.com/view/analyticszone/projects)
 
 ## Projects
 ### NLP
